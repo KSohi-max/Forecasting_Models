@@ -56,7 +56,7 @@ Sources:
 
 ## Constraint
 
-One constraint on these forecasting model is that we wanted to user to enter the Days Forecast as an input to the model.  And subsequently use future dates based on Days Forecast enetered to predict the value of price using the Machine Learning models tested.
+One constraint on these forecasting models is that we wanted to user to enter the Days Forecast as an input to the model.  And subsequently use future dates based on Days Forecast enetered to predict the value of price using the Machine Learning models tested.
 <br />
 <br />
 # Models
