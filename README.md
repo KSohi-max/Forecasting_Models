@@ -51,10 +51,14 @@ Sources:
 
 1.   https://medium.com/analytics-vidhya/mae-mse-rmse-coefficient-of-determination-adjusted-r-squared-which-metric-is-better-cd0326a5697e
 2.   https://medium.com/wwblog/evaluating-regression-models-using-rmse-and-r%C2%B2-42f77400efee#:~:text=they%20tell%20us.-,Root%20mean%20squared%20error%20(RMSE),low%20RMSE%20is%20%E2%80%9Cgood%E2%80%9D.
-
 <br />
 <br />
 
+## Constraint
+
+One constraint on these forecasting model is that we wanted to user to enter the Days Forecast as an input to the model.  And subsequently use future dates based on Days Forecast enetered to predict the value of price using the Machine Learning models tested.
+<br />
+<br />
 # Models
 <br />
 
